@@ -9,4 +9,4 @@ Download the Atlas Guide.pdf. This has detailed instructions on library installa
 <li>Unzip and copy these into the Sketchbook location / libraries folder.</li>
 
 </ol>
-![alt text](https://github.com/swane/atlas/blob/main/Atlas.jpg)
+![alt text](https://github.com/swane/atlas2/blob/main/Atlas.jpg)
